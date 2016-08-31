@@ -41,12 +41,14 @@
 	background-size: 6%;
 	background-repeat: no-repeat;
 }
+
 .em-ico {
 	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
 	width: 50%;
 	background-size: 6%;
 	background-repeat: no-repeat;
 }
+
 .mens {
 	height: 170px;
 	padding-top: -50px;
@@ -55,6 +57,7 @@
 	background-size: 6%;
 	background-repeat: no-repeat;
 }
+
 .bt-enviar {
 	text-align: center;
 	padding:20px 163px;
@@ -62,6 +65,7 @@
 	background-color: #192951;
 	border-radius: 3px;
 }
+
 .bg-blue {
 	background-color: #192951;
 	height: 50px;
